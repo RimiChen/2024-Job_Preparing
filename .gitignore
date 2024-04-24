@@ -1,0 +1,8 @@
+# Secret keys
+LLM/sk.py
+
+# Compiling files
+*.pyc
+*/*.pyc
+*.ipynb
+*/*.ipynb
