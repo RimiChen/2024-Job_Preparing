@@ -5,5 +5,3 @@ LLM/Reference/
 # Compiling files
 *.pyc
 */*.pyc
-*.ipynb
-*/*.ipynb
