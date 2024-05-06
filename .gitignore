@@ -1,5 +1,6 @@
 # Secret keys
 LLM/sk.py
+LLM/Reference/
 
 # Compiling files
 *.pyc

@@ -1,0 +1,10 @@
+# hugging face is a hub for open-source solutions
+# 1. models -free trained ML models
+# 2. Datasets
+# 3. Spaces
+# 4. The Transformers library, for downloading and trainign ML model easy
+import time
+import sys
+
+print(sys.executable)
+
