@@ -1,0 +1,162 @@
+North Carolina State University, Raleigh, NC, US 2015 - Present
+
+@Automated Reasoning for Narratives And Visuals Laboratory (ARNAV Lab)
+
+Visiting Researcher
+- Propose and conduct research plans on visual narrative comprehension and generation.
+- Document research progress and scientific paper writing. 
+- Develop  ML applications and tools.
+
+Image sequence generation and authoring
+- Developing diffusion models and an AI assistant for image authoring recommendations.
+
+Semantic Representation Framework for Image Sequence Comprehension
+- Building event models for image sequence comprehension.
+- developing Application Program interface and graphical interface for using the framework.
+
+
+Graduate Research Assistant
+- Propose and conduct research plans on multimodal modeling and visual narrative.
+- Document research progress and scientific paper writing. 
+- Develop  ML applications and tools.
+
+@Automated Reasoning for Narratives And Visuals Laboratory (ARNAV Lab)
+- Propose and conduct research plans on multimodal understanding and visual narrative.
+- Document research progress and scientific paper writing. 
+- Develop  ML applications and tools.
+
+Cognitive Process Simulation: “A framework for simulating human comprehension process.”
+- Proposed a framework to combine hierarchical Long short-term memory (LSTM) with knowledge graphs to encode and understand visual storytelling data.
+
+Computational Model: “A layered LSTM model to comprehend visual narrative sequences.”
+- Simulated the process of visual narrative comprehension through deep learning models.
+- Released analytical results and new annotations for comic dataset to support future applications.
+
+Document Analysis: “An automatic comic panel transition labeling model for genre analysis.”
+- Applied a layered Convolutional neural network (CNN) to feedback-in-loop process.
+
+Neural Style Transfer: “An experimental study on comic style through neural style transfer.”
+- Implemented neural style transfer models with a multi-channel pipeline to decompose comics.
+
+Image Sequence Generation: “Comic generation through adjustable editing processes.”
+- Proposed a model to generate image sequences through the customizable layers.
+- Produced a sample dataset as the basic material for comic generations.
+
+Story Reasoning: “A planning-based pipeline to infer the missing part of stories.”
+- Decomposed text through Natural Language Processing (NLP) tools to infer missing story.
+- Built tools to map verb predicates–Verbnet’s subject-object triples–into logical literals.
+
+Text Visualization: “A web tool to display large-scale text and index of story content.”
+- Designed an interface to visualize story text and let readers interact with story content.
+- Analyzed the sentiment in novels’ text through natural language processing tools.
+
+Interactive Authoring Tool: “V-SET: an authoring tool for visual novels.”
+- Designed a graphical interface to assist authors in modifying visual content in games.
+- Provided functions to render story content from scripts to narrative adventure games.
+
+
+
+Institute of Information Science—Academia Sinica, Taipei, Taiwan, ROC 2014 – 2015
+Research Assistant
+@Open Framework for Disaster Information Systems Project
+
+- Develop software tools for data systems.
+- Review codes for the team.
+- Propose and conduct research plans on large disaster data management systems.
+- Document research progress and scientific paper writing. 
+
+
+– Developed a distributed, event-triggered service–Intelligent Active Storage Service (IASS)
+
+
+National Tsing Hua University, Hsinchu, Taiwan, ROC 2010 - 2013
+
+Student Researcher
+@Artificial Intelligence Lab (AI Lab)
+- Propose and conduct research plans on multi-agent systems.
+- Document research progress and scientific paper writing. 
+
+– Applied and improved the reinforcement learning algorithm for multi-agent task allocation.
+– Designed a task allocation protocol for power restoration in a self-adaptive smart grid.
+
+
+• Undergraduate Student Researcher
+Tuned hyperparameters for scientific applications in high-performance computing environments.
+
+Topic:
+Student Cluster Competition (SCC) in Supercomputing 2010 (SC10), overall Winner.
+
+
+
+
+SELECTED PROJECTS
+• Game Development, WebGL, Implemented shadowing and rendering algorithms and Q*bert.
+• Game Engine, Java, Built the infrastructure of a game engine, then delivered sample games.
+• Reinforcement Learning Agents, Java, Designed a multi-agents game environment with limited-
+sighted agents and adjusted agent’s behaviors through reinforcement learning.
+
+
+OTHER EXPERIENCE & SERVICES
+Reviewer for Annual Conference of the Cognitive Science Society (CogSci2024) 2024
+
+• Graduate Teaching Assistant @North Carolina State University 2015-2023
+- Lecture for short sessions.
+- Hold office hours and discussions.
+- Grade student assignments and provide feedback..
+
+
+
+– CSC 281 Foundations of Interactive Game Design Fall 2015 - Spring 2023
+– CSC 481/581 Game Engine Foundations Fall 2020
+– CSC 230 C and Software Tools Summer 2016
+
+• Student Volunteer in Autonomous Agents and Multiagent Systems (AAMAS) 2011
+
+• Volunteer of Recording Books Service Center for the Blind, NTHU, Taiwan 2007
+
+
+SKILLS
+• Programming: Python, C/C++, C#, Java, HTML, Javascript.
+• Numeric computing & Deep learning: PyTorch, Tensorflow, Keras, Sklearn, Matlab.
+• Graphical tool & Game engine: Unity, WebGL, GameMaker, Clip Studio, Photoshop.
+
+
+
+
+
+
+Graduate Research Assistant
+- Propose and conduct research plans on visual narrative comprehension and generation.
+- Document research progress and scientific paper writing. 
+- Develop  ML applications and tools.
+
+
+
+Graduate Teaching Assistant
+- Lecture for short sessions.
+- Hold office hours and discussions.
+- Grade student assignments and provide feedback.
+
+Lecturer in Game Development Tool Workshop Sessions
+– CSC 281 Foundations of Interactive Game Design Fall 2015 - Fall 2016
+
+Graduate Teaching Assistant: Grading and Holding Office Hour
+– CSC 281 Foundations of Interactive Game Design Fall 2015 - Spring 2023
+– CSC 481/581 Game Engine Foundations Fall 2020
+– CSC 230 C and Software Tools Summer 2016
+
+
+SERVICES
+• Reviewer for Annual Conference of the Cognitive Science Society (CogSci) 2024
+• Student Volunteer in Autonomous Agents and Multiagent Systems (AAMAS) 2011
+SELECTED PROJECTS
+• Game Development, Implemented shadowing and rendering algorithms and Q*bert in WebGL.
+• Game Engine, Built the infrastructure of a game engine, then delivered sample games.
+• Reinforcement Learning Agents, Designed a multi-agents game environment with limited-sighted
+agents and adjusted agent’s behaviors through reinforcement learning.
+PROGRAMMING SKILLS SPOKEN LANGUAGES
+Python, C#, Java, Javascript, Unity, Matlab, PyTorch English, Mandarin, Japanese
+
+
+English—professional, Mandarin—native, Japanese– limited working proficiency
+
