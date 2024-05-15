@@ -5,3 +5,5 @@ LLM/Reference/
 # Compiling files
 *.pyc
 */*.pyc
+
+ML/stanford_cars/
