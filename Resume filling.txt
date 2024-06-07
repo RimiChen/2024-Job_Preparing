@@ -1,3 +1,7 @@
+My research interests are machine learning, visual narrative, multimodal understanding, and multimedia. Specifically, my Ph.D. research focused on visual narrative comprehension and generation; I've developed learning models for visual media understanding and narrative analysis. I also built interactive tools and models for generating visual content.
+
+
+
 North Carolina State University, Raleigh, NC, US 2015 - Present
 
 @Automated Reasoning for Narratives And Visuals Laboratory (ARNAV Lab)
@@ -7,6 +11,7 @@ Visiting Researcher
 - Document research progress and scientific paper writing. 
 - Develop  ML applications and tools.
 
+Topics:
 Image sequence generation and authoring
 - Developing diffusion models and an AI assistant for image authoring recommendations.
 
@@ -16,15 +21,13 @@ Semantic Representation Framework for Image Sequence Comprehension
 
 
 Graduate Research Assistant
-- Propose and conduct research plans on multimodal modeling and visual narrative.
-- Document research progress and scientific paper writing. 
-- Develop  ML applications and tools.
 
 @Automated Reasoning for Narratives And Visuals Laboratory (ARNAV Lab)
 - Propose and conduct research plans on multimodal understanding and visual narrative.
 - Document research progress and scientific paper writing. 
 - Develop  ML applications and tools.
 
+Topics:
 Cognitive Process Simulation: “A framework for simulating human comprehension process.”
 - Proposed a framework to combine hierarchical Long short-term memory (LSTM) with knowledge graphs to encode and understand visual storytelling data.
 
@@ -56,8 +59,9 @@ Interactive Authoring Tool: “V-SET: an authoring tool for visual novels.”
 
 
 
-Institute of Information Science—Academia Sinica, Taipei, Taiwan, ROC 2014 – 2015
 Research Assistant
+
+Institute of Information Science—Academia Sinica, Taipei, Taiwan, ROC 2014 – 2015
 @Open Framework for Disaster Information Systems Project
 
 - Develop software tools for data systems.
@@ -76,6 +80,7 @@ Student Researcher
 - Propose and conduct research plans on multi-agent systems.
 - Document research progress and scientific paper writing. 
 
+Topics:
 – Applied and improved the reinforcement learning algorithm for multi-agent task allocation.
 – Designed a task allocation protocol for power restoration in a self-adaptive smart grid.
 
@@ -154,9 +159,15 @@ SELECTED PROJECTS
 • Game Engine, Built the infrastructure of a game engine, then delivered sample games.
 • Reinforcement Learning Agents, Designed a multi-agents game environment with limited-sighted
 agents and adjusted agent’s behaviors through reinforcement learning.
+
 PROGRAMMING SKILLS SPOKEN LANGUAGES
 Python, C#, Java, Javascript, Unity, Matlab, PyTorch English, Mandarin, Japanese
 
-
 English—professional, Mandarin—native, Japanese– limited working proficiency
 
+
+
+
+2F., No. 7, Ln. 225, Yucheng St., Nangang Dist., Taipei City 115027 , Taiwan (R.O.C.)
+
+No. 101號, Section 2, Guangfu Rd, East District, Hsinchu City, Taiwan 300

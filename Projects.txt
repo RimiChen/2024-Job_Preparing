@@ -1,0 +1,43 @@
+Projects
+
+-----------------------------------------
+Cognitive Process Simulation
+
+A framework for simulating human comprehension process
+
+- Proposed a framework to combine hierarchical Long short-term memory (LSTM) with knowledge graphs to encode and understand visual storytelling data.
+
+This work describes a framework that contains a visual narrative comprehension model with different levels of comic features to represent the comic context, a pipeline for processing, and an encoding of comic data with function portals to access the studied and learned knowledge. The comprehension model uses a hierarchical Long Short-Term Memory (LSTM) model adapted for encoding comic sequences to fit the multi-modality of comics. It transforms comic context and perceptual features into matrices to form a comic descriptor. 
+
+
+-----------------------------------------
+
+Multimodal Understanding
+
+A layered LSTM model to comprehend visual narrative sequences
+
+- Simulated the process of visual narrative comprehension through deep learning models.
+- Released analytical results and new annotations for comic dataset to support future applications.
+
+Understanding a sequence of images as a visual narrative is challenging because it requires not only the understanding of what is shown at a particular moment but also what has changed, been omitted or is out of frame. The human cognitive system makes inferences about the state of the world based on transitions between sequential frames. In this paper, we present a principled analysis of the stylistic differences between two dominant styles of multi-modal narratives, western comics and manga. These two styles differ in terms of screening, ballooning, layout, language, and reading order. We first provide a systematic account of these differences based on an annotated dataset consisting of both comics and manga. We then annotate these datasets with a new feature set and evaluate the contributions of these features through development of a computational model of multi-modal comprehension. The model evaluation is presented through the cloze test that measures the accuracy of the model in predicting unseen next frames given the prior frames in a sequence. Our results provide initial benchmarks and insight into the fundamental challenges that the multi-modal narrative understanding task presents for computational models both for language and vision. 
+
+
+---------------------------------
+
+Narrative Analysis
+
+An automatic comic panel transition labeling model for genre analysis
+
+- A layered convolutional neural network (CNN) was applied to the feedback-in-loop process.
+
+Understanding how humans communicate and perceive narratives is important for media technology research and development. This is particularly important in current times when there are tools and algorithms that are easily available for amateur users to create high-quality content. Narrative media develops over time a set of recognizable patterns of features across similar artifacts. Genre is one such grouping of artifacts for narrative media with similar patterns, tropes, and story structures. While much work has been done on genre-based classifications in text and video, we present a novel approach to do a multi-modal analysis of genre based on comics and manga-style visual narratives. We present a systematic feature analysis of an annotated dataset that includes a variety of western and eastern visual books with annotations for high-level narrative patterns. We then present a detailed analysis of the contributions of high-level features to genre classification for this medium. We highlight some of the limitations and challenges of our existing computational approaches in modeling subjective labels. Our contributions to the community are: a dataset of annotated manga books, a multi-modal analysis of visual panels and text in a constrained and popular medium through high-level features, and a systematic process for incorporating subjective narrative patterns in computational models. 
+
+---------------------------------
+Image Sequence Generation
+
+Comic generation through adjustable editing processes
+- Proposed a model to generate image sequences through the customizable layers.
+- Produced a sample dataset as the basic material for comic generations.
+
+
+We present a theory-inspired visual narrative generator that incorporates comic-authoring idioms, which transfers the conceptual principles of comics into system layers that integrate the theories to create comic content. The generator creates comics through sequential decision-making across layers from panel composition, object positions, panel transitions, and narrative elements. Each layer's decisions are based on narrative goals and follow the respective layer idioms of the medium. Cohn's narrative grammar provides the overall story arc. Photographic compositions inspired rule of thirds is used to provide panel compositions. McCloud's proposed panel transitions based on focus shifts between scene, character, and temporal changes are encoded in the transition layer. Finally, common overlay symbols (such as the exclamation) are added based on analyzing action verbs using an action-verb ontology. We demonstrate the variety of generated comics through various settings with example outputs. The generator and associated modules could be a useful system for visual narrative authoring and for further research into computational models of visual narrative understanding.
