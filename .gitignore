@@ -2,6 +2,7 @@
 LLM/sk.py
 */sk.py
 LLM/Reference/
+*/*.pem
 
 # Compiling files
 *.pyc

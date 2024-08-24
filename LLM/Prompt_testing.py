@@ -9,3 +9,4 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain.schema import BaseOutputParser
 
+from sk import my_sk # importing secret key from python file

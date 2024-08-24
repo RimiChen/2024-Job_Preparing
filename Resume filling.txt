@@ -7,11 +7,26 @@ North Carolina State University, Raleigh, NC, US 2015 - Present
 @Automated Reasoning for Narratives And Visuals Laboratory (ARNAV Lab)
 
 Visiting Researcher
+
+Role Descriptions:
+Focus: Multimodal understanding and content generation.
+- Designed and executed research plans in Generative AI, resulting in tools and frameworks for human-AI collaborations.
+- Developed interactive AI tools for Visual narrative generation. 
+- Constructed semantic representations for image sequences.
+- Generated narrative content based on information using advanced AI techniques.
+
+OLD
+--------------------------------
 - Propose and conduct research plans on visual narrative comprehension and generation.
-- Document research progress and scientific paper writing. 
+- Document research progress and scientific paper writing and publishing. 
 - Develop  ML applications and tools.
 
 Topics:
+- Developed "Collaborative Comic Generation," a human-in-loop Generative AI project.
+- Created semantic representations for image sequences with a custom framework.
+- Generated game content based on scene information using advanced AI techniques.
+
+
 Image sequence generation and authoring
 - Developing diffusion models and an AI assistant for image authoring recommendations.
 
@@ -22,12 +37,28 @@ Semantic Representation Framework for Image Sequence Comprehension
 
 Graduate Research Assistant
 
+Focus: Visual narrative comprehension and generation.
+- Conducted in-depth research on computational models for narrative understanding, contributing to content inferring accuracy.
+- Published scientific papers and built machine learning models.
+- Developed a cognitive simulation framework leveraging layered learning models, enhancing understanding of human narrative.
+- Researched a frame transition labeling model for comic analysis with Neural networks, analyzing differences among genres.
+- Proposed a model to generate image sequences through adjustable authoring layers.
+
+
+OLD
+----------------------------------
 @Automated Reasoning for Narratives And Visuals Laboratory (ARNAV Lab)
+Role Descriptions:
 - Propose and conduct research plans on multimodal understanding and visual narrative.
-- Document research progress and scientific paper writing. 
+- Document research progress and scientific paper writing and publishing. 
 - Develop  ML applications and tools.
 
 Topics:
+- Developed a framework to simulate cognitive processes using layered LSTM models for human comprehension.
+- Researched a comic panel transition labeling model for genre analysis with Neural Network.
+- Proposed a model to generate comic image sequences through customizable layers.
+
+
 Cognitive Process Simulation: “A framework for simulating human comprehension process.”
 - Proposed a framework to combine hierarchical Long short-term memory (LSTM) with knowledge graphs to encode and understand visual storytelling data.
 
@@ -61,14 +92,24 @@ Interactive Authoring Tool: “V-SET: an authoring tool for visual novels.”
 
 Research Assistant
 
+Focus: Software engineering and data processing.
+- Conducted code reviews and developed software components for data systems, improving disaster data efficiency.
+- Designed a distributed, event-triggered, Intelligent Active Storage Service (IASS).
+
+
+OLD
+----------------------------
 Institute of Information Science—Academia Sinica, Taipei, Taiwan, ROC 2014 – 2015
 @Open Framework for Disaster Information Systems Project
-
+Role Descriptions:
 - Develop software tools for data systems.
 - Review codes for the team.
 - Propose and conduct research plans on large disaster data management systems.
 - Document research progress and scientific paper writing. 
 
+
+Topics:
+- Developed a distributed, event-triggered service—Intelligent Active Storage Service (IASS).
 
 – Developed a distributed, event-triggered service–Intelligent Active Storage Service (IASS)
 
