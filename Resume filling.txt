@@ -117,6 +117,13 @@ Topics:
 National Tsing Hua University, Hsinchu, Taiwan, ROC 2010 - 2013
 
 Student Researcher
+Focus: Multi-agent system and machine learning.
+- Proposed and conducted research plans for multi-agent learning.
+- Enhanced multi-agent reinforcement learning models, resulting infaster convergence.
+- Designed task allocation protocols for power restoration in self-adaptive multi-agent systems.
+
+OLD
+---------------------------
 @Artificial Intelligence Lab (AI Lab)
 - Propose and conduct research plans on multi-agent systems.
 - Document research progress and scientific paper writing. 
@@ -162,10 +169,11 @@ Reviewer for Annual Conference of the Cognitive Science Society (CogSci2024) 202
 
 
 SKILLS
-• Programming: Python, C/C++, C#, Java, HTML, Javascript.
-• Numeric computing & Deep learning: PyTorch, Tensorflow, Keras, Sklearn, Matlab.
-• Graphical tool & Game engine: Unity, WebGL, GameMaker, Clip Studio, Photoshop.
+Hard-working, Eye for detail, Analytical and Interdisciplinary thinking, Academic research, Collaboration, Problem-solving
 
+Python, C/C++, Java, PyTorch, Transformer, TensorFlow, NumPy, OpenCV, OpenGL, MATLAB, Unity, Linux
+
+Deep Learning, Visual Narrative, Multimodal Understanding, Computer Vision, Machine Learning, Generative AI
 
 
 
