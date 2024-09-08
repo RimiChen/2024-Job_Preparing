@@ -1,10 +1,13 @@
 import pygame
+### object shapes
+from GameAI_Shapes_Character import *
 
 pygame.init()
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+pygame.display.set_caption("Testing Game AI")
 ### x,y, w,h
 player = pygame.Rect((300, 250, 50, 50))
 
